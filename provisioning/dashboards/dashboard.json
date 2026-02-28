@@ -51,7 +51,7 @@
         }
       ],
       "title": "Sample Panel Title",
-      "type": "coder-windrose-panel"
+      "type": "hshdevelopment-windrose-panel"
     },
     {
       "datasource": {
@@ -82,7 +82,7 @@
         }
       ],
       "title": "Sample Panel Title",
-      "type": "coder-windrose-panel"
+      "type": "hshdevelopment-windrose-panel"
     }
   ],
   "refresh": "",

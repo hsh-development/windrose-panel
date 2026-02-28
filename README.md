@@ -16,13 +16,13 @@ Based on the plugin in https://github.com/fatcloud/windrose-panel.
 If the plugin is published to the Grafana catalog:
 
 ```bash
-grafana cli plugins install coder-windrose-panel
+grafana cli plugins install hshdevelopment-windrose-panel
 ```
 
 To install from a ZIP file URL:
 
 ```bash
-grafana cli --pluginUrl https://example.com/coder-windrose-panel-1.0.0.zip plugins install coder-windrose-panel
+grafana cli --pluginUrl https://example.com/hshdevelopment-windrose-panel-1.0.0.zip plugins install hshdevelopment-windrose-panel
 ```
 
 Restart Grafana after installation.
@@ -36,13 +36,13 @@ Restart Grafana after installation.
    npm run build
    ```
 
-2. Copy the `dist` folder contents into a new folder named `coder-windrose-panel` inside your Grafana plugins directory:
+2. Copy the `dist` folder contents into a new folder named `hshdevelopment-windrose-panel` inside your Grafana plugins directory:
    - **Linux**: `/var/lib/grafana/plugins/`
    - **macOS**: `/usr/local/var/lib/grafana/plugins/` (or `$GF_PATHS_PLUGINS` if set)
    - **Windows**: `<grafana-install-dir>\data\plugins\`
 
    ```bash
-   cp -r dist /var/lib/grafana/plugins/coder-windrose-panel
+   cp -r dist /var/lib/grafana/plugins/hshdevelopment-windrose-panel
    ```
 
 3. Restart Grafana.
