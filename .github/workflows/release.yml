@@ -28,7 +28,7 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - uses: grafana/plugin-actions/build-plugin@build-plugin/v1.0.2
+      - uses: grafana/plugin-actions/build-plugin@build-plugin/v1.2.0
         id: build
         with:
           node-version: '22'
