@@ -6,7 +6,7 @@
   "info": {
     "keywords": ["windrose", "panel", "plotly", "scatter", "polar"],
     "description": "Make windrose and scatter polar plots",
-    "author": { "name": "Coder" },
+    "author": { "name": "Paulo Vitor Magacho", "email": "pvmagacho@hshdev.com" },
     "logos": {
       "small": "img/windrose_logo.svg",
       "large": "img/windrose_logo.svg"
