@@ -2,6 +2,8 @@
 
 A Grafana panel plugin for windrose and scatter polar visualizations using Plotly.
 
+Based on the plugin in https://github.com/fatcloud/windrose-panel.
+
 ## Features
 
 - **Scatter polar**: Plot angle vs distance with configurable markers, colors, and size

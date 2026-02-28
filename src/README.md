@@ -14,6 +14,8 @@ WindRose Panel provides polar chart visualizations for wind and directional data
 
 Both modes use polar coordinates to visualize directional data effectively.
 
+Based on the plugin in https://github.com/fatcloud/windrose-panel.
+
 ## Requirements
 
 - **Grafana**: 11.0.0 or higher
